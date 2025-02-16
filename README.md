@@ -100,11 +100,5 @@ function reiniciarJogo() {
     limparCampo();
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true);
-}```
-
-# Criador:
-
-**Nome:** NooBy
-
-![Foto do Criador](caminho/para/imagem/criador.jpg)
+}
 
